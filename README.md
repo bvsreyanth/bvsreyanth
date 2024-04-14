@@ -1,12 +1,11 @@
   
 😄   Pronouns: He/His
 🎓   Studying Computer Science Engineering at Pallavi Engineering College, Hyderabad.
-💻   I am seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.
 🔭   I’m currently more into the programming.
-🎯   My goal is to get placed in a good company with a handsome package.
 🌱   Hardworking, Attentive Listener, Self-Motivated
 ⚡   Fun fact: There are two ways to write error-free programs; only the third one works.
-🤔   I’m currently learning ...
+🤔   I’m currently working at Ariqt International ...
+
 
 👋 Connect with me
    Gmail- bvsreyanth@gmail.com
