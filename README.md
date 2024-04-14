@@ -1,7 +1,7 @@
   
 😄   Pronouns: He/His 
 
-🎓   Studying Computer Science Engineering at Pallavi Engineering College, Hyderabad.
+🎓   Graduated in Computer Science Engineering at Pallavi Engineering College, Hyderabad.
 
 🔭   I’m currently more into the programming.
 
